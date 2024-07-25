@@ -1,0 +1,12 @@
+Orders to write commands
+
+SELECT column1, column2, ...
+FROM table_name
+WHERE condition
+GROUP BY column
+HAVING conditon
+ORDER BY column1 [ASC/DESC]...
+LIMIT number;
+
+
+Note: This is seperate from how the order of a query is executed, but instead the order in it must be written.
